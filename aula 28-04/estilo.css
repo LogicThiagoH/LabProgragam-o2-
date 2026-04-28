@@ -1,0 +1,41 @@
+body{
+    font-family: Arial, Helvetica, sans-serif
+}
+.conteudo-id{
+    background-color: rgb(0, 204, 255);
+    color:rgb(255, 0, 0)
+}
+div{
+    color:rgb(0, 0, 0);
+}
+.texto-times{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.importante{
+    font-size: 18px;
+    font-weight: 800px;
+    color:red;
+}
+.destaque{
+    background-color: yellow;
+    font-style: italic;
+}
+#titulo{
+    color:blueviolet;
+}
+#conteudo-principal{
+    border: 1px solid black;
+    padding: 8px;
+}
+.produto{
+border: 1px solid red;
+width: 400px;
+display: inline-block;
+padding: 8px;
+}
+
+.preco-produto{
+    color:aqua;
+}
+
+
