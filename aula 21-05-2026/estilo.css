@@ -5,5 +5,18 @@ input,body{
     margin:4px;
 }
 body{
-    background-color: aliceblue;
+    background-color: rgb(173, 181, 187);
+}
+h1,h2,h3{
+    font-size: 24px;
+}
+.conteudo-principal{
+    background-color: rgb(154, 6, 6);
+}
+.rodape{
+    background-color: rgb(4, 4, 186);
+}
+.todo-conteudo{
+    display: flex;
+    flex-direction: row;
 }
