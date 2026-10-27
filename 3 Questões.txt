@@ -1,0 +1,9 @@
+1. O segredo é estruturar o site com foco na experiência do usuário, utilizando palavras-chave relevantes, garantindo um carregamento rápido e produzindo conteúdos originais e úteis que respondam às dúvidas do público. Essas práticas ajudam os mecanismos de busca a compreender o conteúdo e podem melhorar a visibilidade do site nos resultados de pesquisa (GOOGLE SEARCH CENTRAL, s.d.).
+
+Referência:
+GOOGLE SEARCH CENTRAL. SEO Starter Guide. Disponível em: https://developers.google.com/search/docs/fundamentals/seo-starter-guide.
+
+2. O Tailwind CSS viabiliza a responsividade via prefixos de breakpoint (sm:, md:, lg:) e utilitários flexíveis sob uma estratégia mobile-first.
+
+3. O portal G1 adapta bem seu grid de colunas para telas menores, mas peca em resoluções intermediárias com títulos rígidos que quebram o layout.
+Se precisar, posso resumir mais algum ponto ou mostrar como ficaria o código Tailwind correto para evitar esse erro do G1. O que prefere?
